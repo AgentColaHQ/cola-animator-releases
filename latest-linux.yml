@@ -1,0 +1,9 @@
+version: 0.5.0
+files:
+  - url: Cola-Animator-0.5.0.AppImage
+    sha512: wEuaB1NYTkU1jwR6321bgI7yEMje+QsJ9hDhNzWCgbBGr2SCzmZsf/nfHjp0iIwmZECTHCL5XrfCphd4yXG8bA==
+    size: 127166900
+    blockMapSize: 133576
+path: Cola-Animator-0.5.0.AppImage
+sha512: wEuaB1NYTkU1jwR6321bgI7yEMje+QsJ9hDhNzWCgbBGr2SCzmZsf/nfHjp0iIwmZECTHCL5XrfCphd4yXG8bA==
+releaseDate: '2026-11-08T04:36:03.437Z'
